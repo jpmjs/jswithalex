@@ -22,3 +22,31 @@ false
 true
 
 So use only tripe equals!
+
+
+
+
+
+var first = "Jean"
+var last = "Philippe"
+var full = first + "-" + last
+full
+"Jean-Philippe"
+full.length
+13
+if (full.length > 16) console.log("too long!")
+
+
+
+
+if (fullName.length > max) {
+  console.log("too long!");
+}
+
+else if (fullName.length === max) {
+  console.log("You are Lucky");
+}
+
+else {
+  console.log("Okay, great");
+}
