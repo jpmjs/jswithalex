@@ -36,10 +36,10 @@ full.length
 13
 if (full.length > 16) console.log("too long!")
 
+var max = 16
 
 
-
-if (fullName.length > max) {
+if (full.length > max) {
   console.log("too long!");
 }
 
