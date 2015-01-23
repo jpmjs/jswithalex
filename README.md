@@ -50,3 +50,17 @@ else if (fullName.length === max) {
 else {
   console.log("Okay, great");
 }
+
+
+
+
+
+
+Week 2
+var sports = ['football','baseball','soccer','curling','chess-boxing']
+sports[0] = football
+
+sports[2]
+"soccer"
+sports[sports.length - 3]
+"soccer"
