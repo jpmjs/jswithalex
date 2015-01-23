@@ -64,3 +64,11 @@ sports[2]
 "soccer"
 sports[sports.length - 3]
 "soccer"
+
+
+
+var password = document.getElementsByTagName('input')[1]
+undefined
+password
+<input type="password" name="password">
+
